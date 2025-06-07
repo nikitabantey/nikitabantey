@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Nikita Bantey 👋 </h1>
 
-:earth_americas: **Based in **[the United States]** **
+:earth_americas: **Based in the United States**
 
 Welcome to my GitHub profile! I'm a Passionate software developer with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm always eager to learn and explore new tools and frameworks.
 
